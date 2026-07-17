@@ -1,0 +1,38 @@
+# IDE settings
+.idea/
+.vscode/
+.vs/
+*.iml
+*.suo
+*.user
+*.wsuo
+
+# Python caches and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# C/C++ build products
+Debug/
+Release/
+x64/
+bin/
+build/
+out/
+*.exe
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
