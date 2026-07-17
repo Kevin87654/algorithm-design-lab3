@@ -1,0 +1,4 @@
+# This repository archives coursework in its original byte representation.
+# Disable automatic line-ending normalization for all retained files.
+* -text
+
